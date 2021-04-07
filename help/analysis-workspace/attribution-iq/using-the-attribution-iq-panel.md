@@ -23,4 +23,4 @@ The [!DNL Attribution IQ] [!UICONTROL Panel] in Analysis Workspace is a way to q
 
 ## Additional Resources {#additional-resources}
 
-* [Feature Documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/use_attribution_iq.html)
+* [Feature Documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=en#attribution)
